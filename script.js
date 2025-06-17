@@ -64,7 +64,21 @@ class UI {
 
 // localstorage class
 class Store {
-    
+    getBooks(){
+
+    }
+
+    displayBooks(){
+
+    }
+
+    addBooks(){
+
+    }
+
+    removeBook(){
+        
+    }
 }
 
 document.getElementById("book-form").addEventListener("submit", (e) => {
